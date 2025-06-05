@@ -1,8 +1,8 @@
-# Majora's Mask: Recompiled Mod Template
+# Fast Pushing
 
-This is an example mod for Majora's Mask: Recompiled that can be used as a template for creating mods. It has a basic build system, headers, sample code, and a mod config toml.
+This mod speeds up block pushing to waste less of your time. The push speed is configurable so you can fine-tune it to your preference.
 
-Example code for using the recompui API to build ingame UI can be found in the `ui-example` branch.
+Thanks to Harbour Masters for the original patches that I referenced from [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) and [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian)
 
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
