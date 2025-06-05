@@ -4,6 +4,8 @@ This mod speeds up block pushing to waste less of your time. The push speed is c
 
 Thanks to Harbour Masters for the original patches that I referenced from [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) and [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian)
 
+# Making your own mods
+
 ### Writing mods
 See [this document](https://hackmd.io/fMDiGEJ9TBSjomuZZOgzNg) for an explanation of the modding framework, including how to write function patches and perform interop between different mods.
 
