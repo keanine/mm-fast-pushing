@@ -1,7 +1,7 @@
 {
     "name": "Fast_Pushing",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/keanine/mm-fast-pushing",
-    "description": "Fast block pushing with adjustable speed settings",
+    "description": "Push various things faster with adjustable speed settings",
     "dependencies": []
 }
