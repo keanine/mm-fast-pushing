@@ -63,13 +63,16 @@ data_reference_syms_files = [ "Zelda64RecompSyms/mm.us.rev1.datasyms.toml", "Zel
 additional_files = [ "thumb.dds" ]
 
 [[manifest.config_options]]
-id = "push_speed"
-name = "Push Speed"
-description = "Adjust the speed blocks are pushed."
+id = "push_block_speed"
+name = "Push Block Speed"
+description = """
+Adjust the speed that blocks are pushed.
+
+Recommended: 6"""
 type = "Number"
 min = 1
 max = 10
 step = 1
 precision = 1
 percent = false
-default = 10
+default = 6
