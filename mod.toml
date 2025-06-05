@@ -76,3 +76,19 @@ step = 1
 precision = 1
 percent = false
 default = 6
+
+[[manifest.config_options]]
+id = "push_switch_speed"
+name = "Push Switch Speed"
+description = """
+Adjust the speed that push switches rotate. These are the switches found in Great Bay Temple.
+
+Recommended: 50
+"""
+type = "Number"
+min = 5
+max = 100
+step = 5
+precision = 1
+percent = false
+default = 50
