@@ -72,4 +72,4 @@ max = 10
 step = 1
 precision = 1
 percent = false
-default = 1
+default = 10
